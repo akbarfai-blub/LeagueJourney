@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">League Journey</string>
+
+    <string name="bio_desc">A phantom of a memory, Omen hunts in the shadows. He renders enemies blind, teleports across the field.</string>
+    <string name="txt_main_menu">Choose your awesome agents</string>
+    <string name="bio">// BIOGRAPHY</string>
+
+</resources>
